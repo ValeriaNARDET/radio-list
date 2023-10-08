@@ -1,0 +1,229 @@
+{
+    "nowplaying": [
+        {
+            "artist": "Basement Jaxx",
+            "duration": "00:03:37",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/red-alert-jaxx-radio-mix/id1025321380?i=1025321381&uo=4",
+            "imageUrl": "http://is5.mzstatic.com/image/thumb/Music5/v4/c7/d1/7d/c7d17d7c-504e-9b92-ac59-ab0a78663774/source/450x450bb.jpg",
+            "status": "playing",
+            "time": "2023-10-05T10:15:28Z",
+            "title": "Red Alert"
+        },
+        {
+            "artist": "BoB",
+            "duration": "00:03:00",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/airplanes-feat-hayley-williams-of-paramore/374549206?i=374549219&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/9a/f3/11/9af31198-91cb-89f7-0de2-2177d54a9321/mzi.dxihyrzj.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T10:12:28Z",
+            "title": "Airplanes (Feat. Hayley Williams)"
+        },
+        {
+            "artist": "Omc",
+            "duration": "00:03:45",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/how-bizarre/id406195712?i=406198106&uo=4",
+            "imageUrl": "http://is4.mzstatic.com/image/thumb/Music/v4/30/6c/6d/306c6d6e-65a4-a319-eeff-168ca27004e6/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T10:08:45Z",
+            "title": "How Bizarre"
+        },
+        {
+            "artist": "Sigala",
+            "duration": "00:03:00",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/rely-on-me-mixed/1661483228?i=1661483230&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/40/243040ba-9405-d6ef-0530-72ec32b9ac2d/22481253-6943-4eea-a866-fc1e46b7ae92.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T10:05:45Z",
+            "title": "Rely on Me (Feat. Gabry Ponte & Alex Gaudino)"
+        },
+        {
+            "artist": "The Kid LAROI & Justin Bieber",
+            "duration": "00:02:16",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/stay/1574378620?i=1574378625&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/34/88/bc/3488bcb0-ba44-c227-cbe0-36efe4451bf7/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T10:03:33Z",
+            "title": "Stay"
+        },
+        {
+            "artist": "Lasgo",
+            "duration": "00:03:42",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/something/563067087?i=563067554&uo=4",
+            "imageUrl": "http://is5.mzstatic.com/image/thumb/Music/v4/d1/f0/c1/d1f0c15a-1adf-d9c5-ec6e-d3d9b4308457/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:54:58Z",
+            "title": "Something"
+        },
+        {
+            "artist": "De Lacy",
+            "duration": "00:03:25",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/hideaway-dubfire-needs-to-score/525020150?i=525020338&uo=4",
+            "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/71/3b/fc/713bfcb6-af37-61b5-59ae-628ef3a05cb6/885012011585.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:51:35Z",
+            "title": "Hideaway"
+        },
+        {
+            "artist": "Meduza",
+            "duration": "00:02:47",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/paradise-feat-dermot-kennedy/1536062138?i=1536062139&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/40/51/43/405143cf-95fa-8694-d4ec-8f34f7fdf75e/20UMGIM83298.rgb.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:48:47Z",
+            "title": "Paradise (Feat. Dermot Kennedy)"
+        },
+        {
+            "artist": "Nathan Dawe",
+            "duration": "00:02:09",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/sweet-lies/1649369673?i=1649369675&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/6f/f4/3f/6ff43fcc-e696-3541-7dee-0e03ed806dd4/5054197395444.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:46:40Z",
+            "title": "Sweet Lies (Feat. Talia Mar)"
+        },
+        {
+            "artist": "Rihanna",
+            "duration": "00:04:15",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/whats-my-name-feat-drake/458304705?i=458304720&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/d5/6d/8f/d56d8f6e-a797-707e-5475-29ae782bce60/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:42:28Z",
+            "title": "What's My Name"
+        },
+        {
+            "artist": "Years & Years, Galantis",
+            "duration": "00:02:58",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/sweet-talker/1614482827?i=1614482854&uo=4",
+            "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/66/38/a7/6638a700-9f5c-43fa-1b1b-2f0899beb8d7/886449769001.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:39:27Z",
+            "title": "Sweet Talker"
+        },
+        {
+            "artist": "Martin Jensen",
+            "duration": "00:02:54",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/solo-dance/id1168031982?i=1168032300&uo=4",
+            "imageUrl": "http://is4.mzstatic.com/image/thumb/Music71/v4/e2/a0/98/e2a09875-da90-5b74-5a73-cd593a00d85b/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:35:16Z",
+            "title": "Solo Dance"
+        },
+        {
+            "artist": "Tiffany",
+            "duration": "00:03:45",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/i-think-were-alone-now/id214805525?i=214805532&uo=4",
+            "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/66/c6/fa/66c6faf0-4eb2-200d-ea9e-a1f8edc71630/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:31:31Z",
+            "title": "I Think We're Alone Now"
+        },
+        {
+            "artist": "Mo",
+            "duration": "00:03:50",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/final-song/id1108480941?i=1108481176&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music30/v4/7c/05/06/7c0506f7-884b-d287-8231-3a4c129a5f49/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:27:41Z",
+            "title": "Final Song"
+        },
+        {
+            "artist": "Joel Corry",
+            "duration": "00:03:07",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/lionheart-feat-tom-grennan-strings-version/1660859503?i=1660859908&uo=4",
+            "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d5/4b/64/d54b643b-a748-3c7f-d629-7e50885cd93d/5054197495960.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:24:37Z",
+            "title": "Lionheart (Fearless) (Feat. Tom Grennan)"
+        },
+        {
+            "artist": "Riton & Nightcrawlers",
+            "duration": "00:02:52",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/friday-feat-mufasa-hypeman-dopamine-re-edit/1544962410?i=1544962737&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/f8/a5/5f/f8a55f83-f755-524c-aa9e-fd6a039e34e7/886448989318.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:21:46Z",
+            "title": "Friday (Feat Mufasa & Hypeman)"
+        },
+        {
+            "artist": "Oakenfold",
+            "duration": "00:02:59",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/starry-eyed-surprise-feat-shifty-shellshock/1531493338?i=1531493469&uo=4",
+            "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/f8/3e/5df83e73-f67e-63f7-6af5-5c29a041dc6e/886448661887.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:17:27Z",
+            "title": "Starry Eyed Surprise"
+        },
+        {
+            "artist": "Calvin Harris",
+            "duration": "00:03:28",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/how-deep-is-your-love-calvin-harris-r3hab-remix/1027434482?i=1027434755&uo=4",
+            "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/14/ec/0a14ecf0-e123-f439-723f-d72f38a6d2f9/886445437676.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:14:02Z",
+            "title": "How Deep Is Your Love (Feat. Disciples)"
+        },
+        {
+            "artist": "Robbie Williams",
+            "duration": "00:04:05",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/millennium-radio-edit/id725789681?i=725789835&uo=4",
+            "imageUrl": "http://is1.mzstatic.com/image/thumb/Music4/v4/38/1c/9d/381c9dbb-7cf0-c738-9494-9f4e8e522275/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:10:15Z",
+            "title": "Millenium"
+        },
+        {
+            "artist": "Lizzo",
+            "duration": "00:03:06",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/2-be-loved-am-i-ready/1619161952?i=1619162365&uo=4",
+            "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/63/4a/b8/634ab8d4-abbd-d00a-8913-3048bc89cb4d/075679749123_01.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:07:11Z",
+            "title": "2 Be Loved (Am I Ready)"
+        },
+        {
+            "artist": "Mabel",
+            "duration": "00:03:45",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/boyfriend/1499357878?i=1499357879&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/c5/33/c4/c533c46d-30bb-7b12-b62d-6aaa138762b3/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T09:03:28Z",
+            "title": "Boyfriend"
+        },
+        {
+            "artist": "David Guetta",
+            "duration": "00:03:21",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/whos-that-chick-feat-rihanna/710577474?i=710577834&uo=4",
+            "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/e2/ab/bc/e2abbcb0-1f47-8ccb-6acf-6cd6930ef4d6/mzm.aicuvxcz.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T08:53:56Z",
+            "title": "Who's That Chick (Feat. Rihanna)"
+        },
+        {
+            "artist": "Robin S",
+            "duration": "00:04:11",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/show-me-love-stonebridge-club-mix/id1057973278?i=1057973625&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music22/v4/6f/34/90/6f34902f-3b5c-3376-4240-d922dbe409d1/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T08:49:40Z",
+            "title": "Show Me Love"
+        },
+        {
+            "artist": "Jennifer Lopez",
+            "duration": "00:03:07",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/jenny-from-the-block-track-masters-remix-featuring/209492873?i=209492991&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/53/da/06/53da06d1-db1c-622c-d9c9-852105493627/dj.dophjuan.jpg/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T08:47:05Z",
+            "title": "Jenny From the Block (Feat. Jadakiss & Styles P)"
+        },
+        {
+            "artist": "Rag N Bone Man",
+            "duration": "00:03:11",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/all-you-ever-wanted/1553122084?i=1553122733&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/ed/23/6a/ed236ae3-f0f9-d017-c41a-038406f8c279/source/450x450bb.jpg",
+            "status": "history",
+            "time": "2023-10-05T08:43:50Z",
+            "title": "All You Ever Wanted"
+        }
+    ]
+}
