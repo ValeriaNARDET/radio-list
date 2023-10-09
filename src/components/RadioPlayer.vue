@@ -68,7 +68,7 @@ const updateTrackList = async () => {
 updateTrackList();
 
 
-const updatingTracksId = setInterval(updateTrackList, 2000);
+const updatingTracksId = setInterval(updateTrackList, 5000);
 
 onUnmounted(() => clearInterval(updatingTracksId))
 </script>
