@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onUnmounted } from 'vue'
 import Track from "../types/Track";
 import CurrentTrack from "./CurrentTrack.vue";
 import PlayList from "./PlayList.vue";
@@ -66,6 +66,11 @@ const updateTrackList = async () => {
 }
 
 updateTrackList();
+
+
+const updatingTracksId = setInterval(updateTrackList, 2000);
+
+onUnmounted(() => clearInterval(updatingTracksId))
 </script>
 
 <template>
